@@ -53,7 +53,5 @@
   <a href="https://github.com/GustavoFernandesVS">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00F260,100:0575E6#gh-light-mode-only" alt="Footer" width="100%" align = "left"/>
   </a>
-  <a href="https://github.com/GustavoFernandesVS">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
-  </a>
+
 </div>

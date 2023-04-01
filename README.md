@@ -1,9 +1,9 @@
 <!-- Header -->
-<a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
+<a href="https://github.com/GustavoFernandesVS">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20I'm%20Gustavo%20VS&fontAlign=40&fontAlignY=30&color=0:0575E6,100:00F260&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=75#gh-light-mode-only" alt="Header" width="100%" />
 </a>
 
-<a href="https://github.com/Anant-mishra1729#gh-dark-mode-only" width="30">
+<a href="https://github.com/GustavoFernandesVS" width="30">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20I'm%20Gustavo%20VS&fontAlign=40&fontAlignY=30&color=0:243694,50:264778,100:427786&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=75#gh-dark-mode-only" alt="Header" width="100%" />
 </a>
 <!-- Header icons -->

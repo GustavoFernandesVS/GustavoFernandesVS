@@ -17,7 +17,7 @@
 <!-- Programming languages -->
 <h2>I've worked with</h2>
 <a href="https://github.com/GustavoFernandesVS">
-<img src="https://skillicons.dev/icons?i=lua,html,css,js,visualstudio,figma,git&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=lua,visualstudio,figma,git&theme=dark&perline=8" />
 </a>
 		 
 
